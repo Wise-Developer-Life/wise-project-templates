@@ -1,4 +1,4 @@
-package com.wisedevlife.whytalkmessage.common.constants;
+package com.wisedevlife.whytalkuser.common.constants;
 
 public class RedisConstant {
     private RedisConstant() {}

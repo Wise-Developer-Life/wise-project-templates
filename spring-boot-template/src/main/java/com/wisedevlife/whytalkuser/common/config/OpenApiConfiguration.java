@@ -1,4 +1,4 @@
-package com.wisedevlife.whytalkmessage.common.config;
+package com.wisedevlife.whytalkuser.common.config;
 
 import io.swagger.v3.oas.annotations.OpenAPIDefinition;
 import io.swagger.v3.oas.annotations.info.Contact;

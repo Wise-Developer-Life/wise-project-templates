@@ -1,4 +1,4 @@
-package com.wisedevlife.whytalkmessage.common.exception;
+package com.wisedevlife.whytalkuser.common.exception;
 
 import lombok.Data;
 import lombok.EqualsAndHashCode;

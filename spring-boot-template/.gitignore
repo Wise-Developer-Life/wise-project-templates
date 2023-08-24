@@ -39,6 +39,5 @@ out/
 ### Docker Storage ###
 storage/
 
-### DS_Store ###
-.DS_Store
+### Log File ###
 log/

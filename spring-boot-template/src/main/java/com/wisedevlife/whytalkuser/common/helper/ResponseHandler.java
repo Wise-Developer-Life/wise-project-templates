@@ -1,7 +1,7 @@
-package com.wisedevlife.whytalkmessage.common.helper;
+package com.wisedevlife.whytalkuser.common.helper;
 
-import com.wisedevlife.whytalkmessage.common.enums.ErrorCodeEnum;
-import com.wisedevlife.whytalkmessage.dto.response.ReturnResponse;
+import com.wisedevlife.whytalkuser.common.enums.ErrorCodeEnum;
+import com.wisedevlife.whytalkuser.dto.response.ReturnResponse;
 import org.springframework.http.ResponseEntity;
 
 public class ResponseHandler {

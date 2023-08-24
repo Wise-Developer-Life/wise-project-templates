@@ -1,12 +1,12 @@
-package com.wisedevlife.whytalkmessage;
+package com.wisedevlife.whytalkuser;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class WhyTalkMessageApplication {
+public class WhyTalkUserApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(WhyTalkMessageApplication.class, args);
+        SpringApplication.run(WhyTalkUserApplication.class, args);
     }
 }

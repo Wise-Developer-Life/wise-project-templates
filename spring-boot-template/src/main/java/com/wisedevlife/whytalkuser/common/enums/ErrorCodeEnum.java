@@ -1,4 +1,4 @@
-package com.wisedevlife.whytalkmessage.common.enums;
+package com.wisedevlife.whytalkuser.common.enums;
 
 import lombok.Getter;
 
