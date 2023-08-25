@@ -1,10 +1,10 @@
-package com.wisedevlife.whytalkuser;
+package com.wisedevlife.springboottemplate;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class WhyTalkUserApplicationTests {
+class SpringBootTemplateApplicationTests {
 
     @Test
     void contextLoads() {}

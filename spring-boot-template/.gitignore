@@ -36,4 +36,7 @@ out/
 ### VS Code ###
 .vscode/
 
+### log file ###
+log/
+
 ### Docker Storage (setup your docker volume here) ###

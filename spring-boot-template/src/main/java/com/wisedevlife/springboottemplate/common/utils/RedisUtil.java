@@ -1,4 +1,4 @@
-package com.wisedevlife.whytalkuser.common.utils;
+package com.wisedevlife.springboottemplate.common.utils;
 
 import java.util.Map;
 import java.util.concurrent.TimeUnit;

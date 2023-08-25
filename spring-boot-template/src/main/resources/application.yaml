@@ -2,7 +2,7 @@ server:
     port: 8080
 spring:
     application:
-        name: message-service
+        name: spring-boot-template
     datasource:
         driver-class-name: org.postgresql.Driver
         url: jdbc:postgresql://localhost:5432/message
@@ -24,13 +24,6 @@ spring:
         show-sql: true
         database: postgresql
     data:
-        mongodb:
-            host: localhost
-            port: 27017
-            database: message
-            username: test-user
-            password: test-password
-            auto-index-creation: true
         redis:
           host: localhost
           port: 6379
@@ -40,13 +33,6 @@ spring:
                   max-idle: 8
                   max-wait: -1ms
                   max-active: 8
-    rabbitmq:
-        host: localhost
-        port: 5672
-    activemq:
-        user: guest
-        password: guest
-
 logging:
     file:
         name: ./log/${spring.application.name}.log

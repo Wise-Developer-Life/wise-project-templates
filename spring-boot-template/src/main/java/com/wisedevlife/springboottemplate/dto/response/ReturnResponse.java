@@ -1,4 +1,4 @@
-package com.wisedevlife.whytalkuser.dto.response;
+package com.wisedevlife.springboottemplate.dto.response;
 
 import java.time.Instant;
 

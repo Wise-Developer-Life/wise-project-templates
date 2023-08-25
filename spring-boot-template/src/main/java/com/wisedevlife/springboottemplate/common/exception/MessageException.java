@@ -1,4 +1,4 @@
-package com.wisedevlife.whytalkuser.common.exception;
+package com.wisedevlife.springboottemplate.common.exception;
 
 import lombok.Data;
 import lombok.EqualsAndHashCode;

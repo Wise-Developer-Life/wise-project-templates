@@ -1,4 +1,4 @@
-package com.wisedevlife.whytalkuser.common.enums;
+package com.wisedevlife.springboottemplate.common.enums;
 
 import lombok.Getter;
 

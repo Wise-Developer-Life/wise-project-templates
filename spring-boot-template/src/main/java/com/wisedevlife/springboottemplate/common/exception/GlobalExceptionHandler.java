@@ -1,8 +1,8 @@
-package com.wisedevlife.whytalkuser.common.exception;
+package com.wisedevlife.springboottemplate.common.exception;
 
-import com.wisedevlife.whytalkuser.common.enums.ErrorCodeEnum;
-import com.wisedevlife.whytalkuser.common.helper.ResponseHandler;
-import com.wisedevlife.whytalkuser.dto.response.ReturnResponse;
+import com.wisedevlife.springboottemplate.common.enums.ErrorCodeEnum;
+import com.wisedevlife.springboottemplate.common.helper.ResponseHandler;
+import com.wisedevlife.springboottemplate.dto.response.ReturnResponse;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;
